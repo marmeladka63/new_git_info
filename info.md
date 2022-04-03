@@ -29,6 +29,12 @@
 Чтобы создать ветку, нужно:
 >git branch branch_name
 
+Для перхода к другой ветке:
+>git checkout branch_name
+
+Для совмещения текущей ветки с веткой branch_name:
+> git merge branch_name
+
 Для того,чтобы удалитьс ветку branch_name, нужно написать:
 >git branch -d branch_name
 
