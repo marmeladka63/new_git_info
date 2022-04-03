@@ -23,4 +23,10 @@
 и чтобы вернуться:
 > git checkout master 
 
+Для просмотра веток:
+>git branch
+
+Чтобы создать ветку, нужно:
+>git branch branch_name
+
 ![Мыши правят миром](mik.png)
