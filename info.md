@@ -29,4 +29,7 @@
 Чтобы создать ветку, нужно:
 >git branch branch_name
 
+Для совмещения текущей ветки с веткой branch_name:
+>git name branch_name
+
 ![Мыши правят миром](mik.png)
