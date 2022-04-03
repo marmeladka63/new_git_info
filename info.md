@@ -38,4 +38,7 @@
 Для того,чтобы удалитьс ветку branch_name, нужно написать:
 >git branch -d branch_name
 
+Для визуализации веток:
+>git log --graph
+
 ![Мыши правят миром](mik.png)
