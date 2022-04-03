@@ -29,4 +29,7 @@
 Чтобы создать ветку, нужно:
 >git branch branch_name
 
+Для перхода к ветке branch_name:
+>git chekout branch_name
+
 ![Мыши правят миром](mik.png)
